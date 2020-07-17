@@ -39,9 +39,7 @@ function m = neural()
           U = U + n.*delta_i*(H.');
           W = W + n.*delta_j*(I.');
       end
-
-      clear RMS_Err;
-
+      
       % Calculate RMS error
       D = Classifications.';
       I = Attributes.';
