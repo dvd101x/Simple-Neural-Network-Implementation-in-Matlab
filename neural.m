@@ -6,7 +6,7 @@
 %  Modified by David Contreras, 2020 to run about 30 percent faster with some simplifications and vectorization
 %  email: dvd.cnt@gmail.com
 
-function m = neural()
+function neural()
   % DATA SETS; demo file
   [Attributes, Classifications] = mendez;
   n = 2.6;
