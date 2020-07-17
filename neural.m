@@ -1,9 +1,9 @@
-%  Very simple and intuitive neural network implementatio
+%  Very simple and intuitive neural network implementation
 %
 %  Carl Lndahl, 2008
 %  email: carl(dot)londahl(at)gmail(dot)com
 %  Feel free to redistribute and/or to modify in any way
-%  Modified by David Contreras, 2020 to do some simplifications and vectorization to run about 30 percent faster.
+%  Modified by David Contreras, 2020 to run about 30 percent faster with some simplifications and vectorization
 %  email: dvd.cnt@gmail.com
 
 function m = neural()
