@@ -1,4 +1,4 @@
-%% Very simple and intuitive neural network implementatio
+%  Very simple and intuitive neural network implementatio
 %
 %  Carl Lndahl, 2008
 %  email: carl(dot)londahl(at)gmail(dot)com
